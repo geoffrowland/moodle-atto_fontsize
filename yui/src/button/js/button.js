@@ -34,13 +34,13 @@
 var component = 'atto_fontsize',
     sizes = [
         {
-            value: '50%',
+            value: '63%',
             text:  'xx-small'
         }, {
-            value: '65%',
+            value: '75%',
             text:  'x-small'
         }, {
-            value: '85%',
+            value: '89%',
             text:  'small'
         }, {
             value: '100%',
